@@ -1,6 +1,6 @@
 # CodeCrashers
 
-Deze repository correspondeert met de [**Bootstrap**](https://codecrashers.nl/cursussen/bootstrap) cursus van CodeCrashers.
+Deze repository correspondeert met de [**Bootstrap**](https://codecrashers.nl/lesmateriaal/bootstrap) cursus van CodeCrashers.
 
 ---
 
